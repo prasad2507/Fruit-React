@@ -1,0 +1,38 @@
+.textRed {
+  color: Red;
+}
+.posRel {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.bgWhite {
+  background-color: white !important;
+}
+.mb2 {
+  border-bottom: 4px solid;
+  padding-bottom: 3px;
+}
+.fs20 {
+  font-size: 20px;
+}
+.fs30 {
+  font-size: 30px;
+}
+.btb {
+  border-bottom: 1px solid gray;
+  border-top: 1px solid;
+}
+.ulList li {
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+}
+.hrW {
+  border: 2px solid;
+  width: 100%;
+}
+.textyCenter {
+  align-items: center;
+}
